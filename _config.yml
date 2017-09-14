@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/home" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://garrettsorel.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -27,11 +27,11 @@ theme_settings:
   flickr:
   github: "/GarrettSorel"
   google_plus:
-  instagram: "https://www.instagram.com/gsorel/"
+  instagram: "gsorel/"
   linkedin: "https://www.linkedin.com/in/garrett-sorel-3a3ba279/" # Full URL
   pinterest:
   reddit:
-  soundcloud: "https://soundcloud.com/garrett-michael-5"
+  soundcloud: "garrett-michael-5"
   stack_exchange:  # Full URL
   steam:
   tumblr:
