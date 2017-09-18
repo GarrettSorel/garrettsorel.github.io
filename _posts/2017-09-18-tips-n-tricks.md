@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Take a Chill Pill - 5 Tips for Learning Code
+---
 Learning how to code is difficult. I can think of few things more frustrating than seeing an error or an "undefined" value when you've been working for countless hours trying to get it right and get it working. If you're anything like me, being competitive and swearing it must be the interpreter and not the code, than check out these five tips that have helped me progress over the last few months.
 
 ## Check Tags, Variables, etc.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reporting Up - From Nerdspeak to Executive Reports
+---
 While still early in my adult life, and inherently a geek at heart, I've learned some valuable lessons about reporting up in the workplace. While I find code, data, and systems exhilarating, a good amount of people do not, and might even be adverse to understanding the ins-and-outs of what we do as technology and data professionals. To avoid some of your favorite comebacks like "What the hell are you talking about?" or "English please?" or the best one "Look, I don't care how it works...", check out some of these tips that can help you to report up.
 
 ## Know Your Audience
