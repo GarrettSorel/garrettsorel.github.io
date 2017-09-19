@@ -9,7 +9,7 @@ To contact me directly, please use the form below and leave me a brief message. 
 
 <form action="https://getsimpleform.com/messages?form_api_token=b83e0eb391230f4d6c1a8a5921d43931" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://garrettsorel.github.io/thank-you/' />
+  <input type='hidden' name='redirect_to' value='https://garrettsorel.com/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
