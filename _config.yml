@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1></h1>
-  header_text_feature_image:
+  header_text_feature_image: "https://pixabay.com/photo-1762895/"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
@@ -54,7 +54,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  google_fonts: "Ubuntu"
 
 # PAGINATION
 paginate: 5
