@@ -2,7 +2,7 @@
 layout: post
 title: From Code, to English, and Back
 ---
-Being 18 and a freshmen in college does not seem like it was long ago, but it is, and seeing how far I've come on my journey to become a developer has been challenging and bumpy, but most of all fully satisfying. For anyone who thinks that they may be too old or too far along into another career to follow a passion you may have, I urge you to take the plunge and turn your passion into a reality.
+Being 18 and a freshmen in college does not seem like it was long ago, but it was, and seeing how far I've come on my journey to become a developer has been challenging and bumpy, but most of all fully satisfying. For anyone who thinks that they may be too old or too far along into another career to follow a passion you may have, I urge you to take the plunge and turn your passion into a reality.
 
 I have a vivid memory of sitting in front of my computer, frustrated, trying to get "Hello World!" to appear on my screen as my friends went to parties, dinners, and traveled to other campuses. The 18 year old me couldn't take it. I loved computers so much, but couldn't stand being locked away while others were out having fun. Instead of sticking it out, instead of pushing through, I dropped my Computer Science major and went on undecided for the next semester. The following year, I became an English major, as I loved to read and write as well, and the projects were much less demanding. With the extra time I had, I was finally able to embrace the "college experience."
 
