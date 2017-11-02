@@ -2,7 +2,7 @@
 layout: post
 title: BlocJams
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "/bloc-jams.md"
+thumbnail-path: "/portfolio/blocjams.html"
 short-description: BlocJams for iOS is awesome!
 
 ---
