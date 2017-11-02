@@ -4,12 +4,11 @@ title: BlocJams
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "/portfolio/blocjams.html"
 short-description: BlocJams for iOS is awesome!
-
 ---
-##Explanation
+#Explanation
 Bloc Jams is a music app project that helped me learn both JQuery and AngularJS. While the app was able to play a basic album in the JQuery version, I wanted to create a more scalable app that could hold multiple albums and tracks. Also, the flexibility of AngularJS allowed me to keep my code base smaller while making it easier to read.
 
-##Problem
+#Problem
 The JQuery Version of Bloc Jams was a single, one-dimensional page that showed one album.
 
 {:.center}
@@ -17,7 +16,7 @@ The JQuery Version of Bloc Jams was a single, one-dimensional page that showed o
 
 Right away, it seemed as though having multiple pages such as a page to show and store albums, a home page, and any additional layers like a blog would be difficult since items like the player bar would need to be carried over on each page. Instead of having all of the extra code, it made the most sense to go with a more scalable approach and use AngularJS to build a single page app that could use more bite-sized chunks of code.
 
-##Solution & Results
+#Solution & Results
 Moving over to AngularJS helped to minimize the need for duplicate code on HTML pages. Take for example the player bar HTML for JQuery version of Bloc Jams:
 
 {% highlight HTML %}
@@ -58,13 +57,11 @@ We would need to add this to each page that we created. However, with AngularJS,
 <ng-include src="'/templates/player_bar.html'"></ng-include>
 {% endhighlight %}
 
-##Results
-
+#Results
 The end result was a much more scalable, single page app that had more flexibility when it came to have multiple albums and a more dynamic player bar. The code base was also broken out in a way that it was easy to understand which service was doing what and created bite sized code that was easier to troubleshoot while building. And, it was much more appealing to the eyes too!
 
 {:.center}
 ![]({{ site.baseurl }}/img/bloc-jams-2.jpg)
 
-##Conclusion
-
+#Conclusion
 Both versions of Bloc Jams have their strengths and weaknesses, but for app scalability, AngularJS wins out. For me, having smaller pieces of code to work with was much easier for me. I also like that I can easily add pages and pull in code I need without having to repurpose certain things, like a player bar, on every page. Very happy I was able to work with both, but Angular is the clear winner for me!
